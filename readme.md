@@ -1,4 +1,4 @@
-This is a public domain release of specifications, measurement and audio analysis of the Verum 1.
+This is a public domain release of specifications, measurements and audio analysis of the Verum 1.
 
 This information is from the Head-Fi community:
 * Verum 1 photo by @Garuspik 
