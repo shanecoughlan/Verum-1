@@ -4,9 +4,32 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/shane/Desktop/Verum-1/Verum-One-Measurements-Source/Document fonts/AdobeFnt21.lst
-FileLength:713
-FileModTime:580864652
+OutlineFileName:/Users/shane/Desktop/Verum-One-Measurements Folder/Document fonts/AdobeFnt21.lst
+FileLength:980
+FileModTime:582261318
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+MenuName:Arial
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Arial Bold
+WritingScript:Roman
+OutlineFileName:/Users/shane/Desktop/Verum-One-Measurements Folder/Document fonts/Arial Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:751104
+FileModTime:415094400
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
 %EndFont
 
 %BeginFont
@@ -22,12 +45,12 @@ WidthClass:5
 AngleClass:0
 FullName:Arial
 WritingScript:Roman
-OutlineFileName:/Users/shane/Desktop/Verum-1/Verum-One-Measurements-Source/Document fonts/Arial.ttf
+OutlineFileName:/Users/shane/Desktop/Verum-One-Measurements Folder/Document fonts/Arial.ttf
 DataFormat:sfntData
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:774476
-FileModTime:415094400
+FileModTime:582260546
 NameArray:0,Mac,4,Arial
 NameArray:0,Win,1,Arial
 %EndFont
